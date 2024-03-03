@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\controllers\\translatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\controllers\\translatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\models\\translatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\models\\translatormodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|c:\\users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5726A79-D35A-4EBC-B6FC-9B0B3612D705}|testtravelfactory\\testtravelfactory.csproj|solutionrelative:testtravelfactory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TranslatorModel.cs",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Models\\TranslatorModel.cs",
+              "RelativeDocumentMoniker": "testtravelfactory\\Models\\TranslatorModel.cs",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Models\\TranslatorModel.cs",
+              "RelativeToolTip": "testtravelfactory\\Models\\TranslatorModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:09:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "testtravelfactory\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "testtravelfactory\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T20:08:14.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TranslatorController.cs",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Controllers\\TranslatorController.cs",
+              "RelativeDocumentMoniker": "testtravelfactory\\Controllers\\TranslatorController.cs",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Controllers\\TranslatorController.cs",
+              "RelativeToolTip": "testtravelfactory\\Controllers\\TranslatorController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwBoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:58:08.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "testtravelfactory\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "testtravelfactory\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T19:02:28.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "testtravelfactory\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "testtravelfactory\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T09:51:39.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "testtravelfactory\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "testtravelfactory\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-03T09:46:25.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Program.cs",
+              "RelativeDocumentMoniker": "testtravelfactory\\Program.cs",
+              "ToolTip": "C:\\Users\\bar\\repos\\test\\testtravelfactory\\testtravelfactory\\Program.cs",
+              "RelativeToolTip": "testtravelfactory\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-03T09:40:20.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
